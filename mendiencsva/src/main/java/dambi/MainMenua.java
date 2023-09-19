@@ -27,11 +27,10 @@ public class MainMenua {
 
             switch (opcion) {
                 case 1:
-                    System.out.println("Has seleccionado la opcion 1");
                     met1();
                     break;
                 case 2:
-                    System.out.println("Has seleccionado la opcion 2");
+                    mendialtuena();
                     break;
                 case 3:
                     System.out.println("Has seleccionado la opcion 3");
@@ -51,13 +50,34 @@ public class MainMenua {
     public static void met1() {
         ArrayList<Mendia> mendiak = new ArrayList<>();
         mendiak = cargarmendiak();
-        
+
         // Imprimir cada objeto Mendia en la lista
         for (Mendia m : mendiak) {
             System.out.println(m);
         }
     }
-    
+
+    /** Metodo honek....
+     * 
+     */
+    public static void mendialtuena() {
+        ArrayList<Mendia> mendiak = new ArrayList<>();
+        mendiak = cargarmendiak();
+        int n = 0, a;
+        for (Mendia m : mendiak) {
+            a = m.getAltuera();
+            if (a > n) {
+                n = a;
+            }
+        }
+        for (Mendia j : mendiak) {
+            a = j.getAltuera();
+            if (a == n) {
+                System.out.println(j);
+            }
+
+        }
+    }
 
     public static ArrayList<Mendia> cargarmendiak() {
         ArrayList<Mendia> mendiak = new ArrayList<>();
@@ -84,7 +104,4 @@ public class MainMenua {
 
     }
 
-    public static void met2() {
-
-    }
 }

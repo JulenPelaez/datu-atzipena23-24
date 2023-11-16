@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Notak>
+    <Nota id="1">
+        <Ikaslea>agirrezabala.peru</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>6</nota>
+    </Nota>
+    <Nota id="2">
+        <Ikaslea>arceredillo.adrian</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="3">
+        <Ikaslea>arginzoniz.joseba</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="4">
+        <Ikaslea>basterra.alain</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="5">
+        <Ikaslea>elorza.karmele</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="7">
+        <Ikaslea>garate.erlantz</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="8">
+        <Ikaslea>jauregi.iker</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="9">
+        <Ikaslea>lomana.markel</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="10">
+        <Ikaslea>maiora.arkaitz</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="11">
+        <Ikaslea>malatsetxebarria.peru</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>6</nota>
+    </Nota>
+    <Nota id="12">
+        <Ikaslea>olivas.hodei</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="13">
+        <Ikaslea>otero.haritz</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="14">
+        <Ikaslea>parra.raul</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="15">
+        <Ikaslea>perez.pe.mikel</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="17">
+        <Ikaslea>soto.aitzol</Ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="18">
+        <Ikaslea>agirrezabala.peru</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="19">
+        <Ikaslea>arceredillo.adrian</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="20">
+        <Ikaslea>arginzoniz.joseba</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="21">
+        <Ikaslea>basterra.alain</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>6</nota>
+    </Nota>
+    <Nota id="22">
+        <Ikaslea>elorza.karmele</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="23">
+        <Ikaslea>gallastegui.iker</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="24">
+        <Ikaslea>garate.erlantz</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="25">
+        <Ikaslea>jauregi.iker</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="27">
+        <Ikaslea>maiora.arkaitz</Ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="28">
+        <Ikaslea>agirrezabala.peru</Ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="29">
+        <Ikaslea>arceredillo.adrian</Ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="30">
+        <Ikaslea>arginzoniz.joseba</Ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="31">
+        <Ikaslea>basterra.alain</Ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>6</nota>
+    </Nota>
+    <Nota id="32">
+        <Ikaslea>elorza.karmele</Ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="33">
+        <Ikaslea>gallastegui.iker</Ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="34">
+        <Ikaslea>garate.erlantz</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="35">
+        <Ikaslea>jauregi.iker</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="37">
+        <Ikaslea>maiora.arkaitz</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="38">
+        <Ikaslea>malatsetxebarria.peru</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="39">
+        <Ikaslea>olivas.hodei</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="40">
+        <Ikaslea>otero.haritz</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="41">
+        <Ikaslea>parra.raul</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>6</nota>
+    </Nota>
+    <Nota id="42">
+        <Ikaslea>perez.pe.mikel</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="43">
+        <Ikaslea>rodriguez.markel</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="44">
+        <Ikaslea>soto.aitzol</Ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="45">
+        <Ikaslea>agirrezabala.peru</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="47">
+        <Ikaslea>arginzoniz.joseba</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="48">
+        <Ikaslea>basterra.alain</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="49">
+        <Ikaslea>elorza.karmele</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="50">
+        <Ikaslea>gallastegui.iker</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="51">
+        <Ikaslea>garate.erlantz</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>6</nota>
+    </Nota>
+    <Nota id="52">
+        <Ikaslea>jauregi.iker</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="53">
+        <Ikaslea>lomana.markel</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="54">
+        <Ikaslea>maiora.arkaitz</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="55">
+        <Ikaslea>malatsetxebarria.peru</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="57">
+        <Ikaslea>otero.haritz</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Nota>
+    <Nota id="58">
+        <Ikaslea>parra.raul</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>9</nota>
+    </Nota>
+    <Nota id="59">
+        <Ikaslea>perez.pe.mikel</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>8</nota>
+    </Nota>
+    <Nota id="60">
+        <Ikaslea>rodriguez.markel</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>7</nota>
+    </Nota>
+    <Nota id="61">
+        <Ikaslea>soto.aitzol</Ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>6</nota>
+    </Nota>
+</Notak>
